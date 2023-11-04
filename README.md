@@ -13,6 +13,7 @@ Uses python functions, loops, methods and lists.
 
 ### Screenshots
 
-![Alt screenshot image showing all my tests passing](screenshot/Screenshot 2023-11-03 at 5.06.58 pm.png)
+![Alt screenshot image showing all my tests passing](screenshot/Screen2.png)
 
 ![Alt screenshot image showing all my tests passing](screenshot/Screenshot 2023-11-03 at 5.07.06 pm.png)
+![Alt screenshot image showing all my tests passing](screenshot/Screen1.png)
