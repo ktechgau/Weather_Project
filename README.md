@@ -1,4 +1,4 @@
-# {{ Karla Gaudet}} - Python Project: Weather App
+# Karla Gaudet - Python Project: Weather App
 
 ## Project Requirements
 
@@ -13,6 +13,6 @@ Uses python functions, loops, methods and lists.
 
 ### Screenshots
 
-![Alt screenshot image showing all my tests passing](Weather_Project/screenshot/Screenshot 2023-11-03 at 5.06.58 pm.png)
+![Alt screenshot image showing all my tests passing](screenshot/Screenshot 2023-11-03 at 5.06.58 pm.png)
 
-![Alt screenshot image showing all my tests passing](Weather_Project/screenshot/Screenshot 2023-11-03 at 5.07.06 pm.png)
+![Alt screenshot image showing all my tests passing](screenshot/Screenshot 2023-11-03 at 5.07.06 pm.png)
